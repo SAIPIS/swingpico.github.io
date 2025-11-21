@@ -1,6 +1,6 @@
 ASSET_ISSUER = "GCBXNC5AHNK5XDGFRAML7YUVDEDCDY4OKCUX53NQFNRF464T5I3UEA3G"
 NAME = "SWINGPI"
 CODE = "SWINGPI"
-IMAGE = "https://swingpico.github.io/SWINGPI logo.png"
-DESCRIPTION = "SWINGPI - 1B Fixed Supply Community Token on Pi Testnet"
+IMAGE = "https://swingpico.github.io/SWINGPI%20logo.png"
+DESCRIPTION = "SWINGPI - 1B fixed supply community token on Pi Testnet"
 INFO = "https://swingpico.github.io"
